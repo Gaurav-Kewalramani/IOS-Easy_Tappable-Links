@@ -13,6 +13,7 @@
 		F4DDC66F293F247000C1BF17 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4DDC66D293F247000C1BF17 /* Main.storyboard */; };
 		F4DDC671293F247400C1BF17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4DDC670293F247400C1BF17 /* Assets.xcassets */; };
 		F4DDC674293F247400C1BF17 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4DDC672293F247400C1BF17 /* LaunchScreen.storyboard */; };
+		F4DDC67C293F25FD00C1BF17 /* NSAttributedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4DDC67B293F25FD00C1BF17 /* NSAttributedString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F4DDC670293F247400C1BF17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F4DDC673293F247400C1BF17 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F4DDC675293F247400C1BF17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F4DDC67B293F25FD00C1BF17 /* NSAttributedString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSAttributedString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F4DDC670293F247400C1BF17 /* Assets.xcassets */,
 				F4DDC672293F247400C1BF17 /* LaunchScreen.storyboard */,
 				F4DDC675293F247400C1BF17 /* Info.plist */,
+				F4DDC67B293F25FD00C1BF17 /* NSAttributedString.swift */,
 			);
 			path = TapLink;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				F4DDC66C293F247000C1BF17 /* ViewController.swift in Sources */,
 				F4DDC668293F247000C1BF17 /* AppDelegate.swift in Sources */,
 				F4DDC66A293F247000C1BF17 /* SceneDelegate.swift in Sources */,
+				F4DDC67C293F25FD00C1BF17 /* NSAttributedString.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
